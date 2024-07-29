@@ -1,4 +1,4 @@
-Certainly! Let’s dive into the details of how Ingress works in Kubernetes and how it helps with exposing services.
+details of how Ingress works in Kubernetes and how it helps with exposing services.
 
 ### **Understanding Nginx without Kubernetes**
 
